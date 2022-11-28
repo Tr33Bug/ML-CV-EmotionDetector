@@ -1,4 +1,6 @@
 # ML-CV-EmotionDetector
+`AI-lab task by Overfitter`
+
 Training and finetuning an EfficentnetB0 for EmotionDetection and comparing it to a simple Baseline CNN.
 ---
 Groupmembers and Contributors:

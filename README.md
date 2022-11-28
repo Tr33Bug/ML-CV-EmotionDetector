@@ -10,3 +10,4 @@ Groupmembers and Contributors:
 - [BFuertsch](https://github.com/BenJosh95)
 
 ---
+![grafik](https://user-images.githubusercontent.com/28724731/204388258-cc5e7641-b5a7-4291-9c95-f5ad91d12f23.png)
